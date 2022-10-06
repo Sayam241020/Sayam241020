@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="250" src="https://github.com/Sayam241020/Sayam241020/blob/main/1_UFK4FjRiapOJ44dwksBanw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayam241020&label=Profile%20views&color=0e75b6&style=flat" alt="sayam241020" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayam241020" alt="sayam241020" /></a> </p>
+
 
 - 🌱 I’m currently learning **Flask**
 
