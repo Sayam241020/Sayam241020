@@ -1,4 +1,4 @@
-![logo](https://github.com/Sayam241020/Sayam241020/blob/main/ezgif.com-gif-maker.gif)
+![logo](https://github.com/Sayam241020/Sayam241020/blob/main/ezgif.com-gif-maker%20(2).gif)
 <h1 align="center">Hi 👋, I'm Sayam Agarwal</h1>
 <h3 align="center">Competitive Programmer and Open Source Contributer</h3>
 <img align="right" alt="coding" width="250" src="https://github.com/Sayam241020/Sayam241020/blob/main/1_UFK4FjRiapOJ44dwksBanw.gif">
