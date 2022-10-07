@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Sayam241020/Sayam241020/blob/main/ezgif.com-gif-maker%20(2).gif)
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sayam Agarwal</h1>
-<h3 align="center">Competitive Programmer and Open Source Contributer</h3>
+<h2 align="center">Competitive Programmer and Open Source Contributer</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;Backend+Developer&center=true&width=500&height=50"></a>
 </p>
