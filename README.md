@@ -10,7 +10,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Final year Student` at IET, Lucknow.`
+- :school: I had did my B-Tech from` IET, Lucknow in Computer Science Branch in 2023.`
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 - 💬 Ask me about **Data Structures & Algorithm, ML, Django**
